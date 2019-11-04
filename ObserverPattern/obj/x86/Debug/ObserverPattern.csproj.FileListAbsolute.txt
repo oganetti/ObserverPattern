@@ -1,0 +1,6 @@
+/Users/ogandragonetti/Projects/ObserverPattern/ObserverPattern/bin/Debug/ObserverPattern.exe
+/Users/ogandragonetti/Projects/ObserverPattern/ObserverPattern/bin/Debug/ObserverPattern.pdb
+/Users/ogandragonetti/Projects/ObserverPattern/ObserverPattern/obj/x86/Debug/ObserverPattern.csprojAssemblyReference.cache
+/Users/ogandragonetti/Projects/ObserverPattern/ObserverPattern/obj/x86/Debug/ObserverPattern.csproj.CoreCompileInputs.cache
+/Users/ogandragonetti/Projects/ObserverPattern/ObserverPattern/obj/x86/Debug/ObserverPattern.exe
+/Users/ogandragonetti/Projects/ObserverPattern/ObserverPattern/obj/x86/Debug/ObserverPattern.pdb
